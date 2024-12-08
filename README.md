@@ -19,7 +19,7 @@ This project implements a novel approach to improving LLM responses using a para
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/parallel-mcts-llm.git
+git clone https://github.com/yourusername/MCTS_distributed.git
 cd parallel-mcts-llm
 ```
 
